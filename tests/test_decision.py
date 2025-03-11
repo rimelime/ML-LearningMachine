@@ -12,7 +12,7 @@ def r2_score_manual(y_true, y_pred):
     mean_y = np.mean(y_true)
     ss_total = sum((y - mean_y)**2 for y in y_true)
     ss_residual = sum((t - p)**2 for t, p in zip(y_true, y_pred))
-    return 1 - (ss_residual / ss_total)
+    return 1 - (ss_residual / ss_total)/
 
 def test_saved_model(
     test_csv="data/processed/test_data_decision.csv",
