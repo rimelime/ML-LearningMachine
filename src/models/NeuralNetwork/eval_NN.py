@@ -6,7 +6,7 @@ from model_NN import NeuralNetworkModel
 import joblib
 import os
 
-BASE_DIR=os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+BASE_DIR=os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 MODEL_PATH = os.path.join(BASE_DIR,"models", "trained", "NN.pkl")
 
 def train_eval_save_NN(data, data_output, scaler_y, device, k_folds=5, num_epochs=50, batch_size=64,output_file=MODEL_PATH):
