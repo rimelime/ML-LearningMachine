@@ -10,10 +10,10 @@ Phùng Bá Triều(2053524) contribution: 100%
 Naive Bayes:
 Lê Nguyễn Minh Giang (2052966) contribution: 100%
 Đinh Phạm Đăng Khoa (2052132) contribution: 100%
-| Name | Studend ID| Task | Contributions
-|----------|----------|----------|
-| Thái Quang Dự | 2252136  | Neural network | 20% |
-| Đặng Quốc Huy | 2053031  | Neural network | 20% |
-| Phùng Bá Triều | 2053524  | Decision Tree | 20% |
-| Lê Nguyễn Minh Giang | 2052966 | Naive Bayes | 20% |
-| Đinh Phạm Đăng Khoa | 2052132 | Naive Bayes | 20% |
+| Name                     | Student ID | Task           | Contributions |
+|--------------------------|------------|----------------|---------------|
+| Thái Quang Dự            | 2252136    | Neural network | 20%           |
+| Đặng Quốc Huy            | 2053031    | Neural network | 20%           |
+| Phùng Bá Triều           | 2053524    | Decision Tree  | 20%           |
+| Lê Nguyễn Minh Giang     | 2052966    | Naive Bayes    | 20%           |
+| Đinh Phạm Đăng Khoa      | 2052132    | Naive Bayes    | 20%           |
