@@ -34,7 +34,7 @@ def preprocess_media_cost(raw, out):
     numeric_columns = [
         'store_sales(in millions)', 'store_cost(in millions)', 'SRP',
         'gross_weight', 'units_per_case', 'store_sqft', 'grocery_sqft',
-        'frozen_sqft', 'meat_sqft', 'net_weight'
+        'frozen_sqft', 'meat_sqft', 'net_weight','cost'
     ]
     for col in numeric_columns:
         if col not in df.columns:
