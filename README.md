@@ -11,11 +11,11 @@ members, task distributions and contributions for Assignment 1:
 | Đinh Phạm Đăng Khoa      | 2052132    | Naive Bayes    | 20%           |
 # Assignment 2 Report:
 ## members, task distributions and contributions: 
-| Name                     | Student ID | Task                              | Contributions |
-|--------------------------|------------|-----------------------------------|---------------|
-| Thái Quang Dự            | 2252136    | Bayesian Network, Ensemble method | 20%           |
-| Phùng Bá Triều           | 2053524    | Data preprocessing, SVM           | 20%           |
-| Lê Nguyễn Minh Giang     | 2052966    | PCA/LDA, report                   | 20%           |
+| Name                     | Student ID | Task                              | Completion     |
+|--------------------------|------------|-----------------------------------|----------------|
+| Thái Quang Dự            | 2252136    | Bayesian Network, Ensemble method | 100%           |
+| Phùng Bá Triều           | 2053524    | Data preprocessing, SVM           | 100%           |
+| Lê Nguyễn Minh Giang     | 2052966    | PCA/LDA, report                   | 100%           |
 ## Model Accuracy:
 for more detailed report please checkout the pdf file in this direction: reports/Assignment_2_report.pdf
 this is the brief accuracy report with the best possible result from each model:
