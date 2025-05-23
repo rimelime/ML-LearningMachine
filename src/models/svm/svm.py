@@ -55,7 +55,7 @@ class SVMClassifier:
 
     def fit(self, split: str = "train"):
         X, y = load_xy(split)
-        print(f"▶ Fitting on {len(y):,} rows …")
+        print(f"Fitting on {len(y):,} rows …")
         self.model.fit(X, y)
 
     def score(self, split: str = "test") -> float:
